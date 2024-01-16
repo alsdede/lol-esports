@@ -15,4 +15,5 @@ export interface Theme {
     '--blue-dark': string,
     '--blue-twitter': string,
     'background': string,
+    "--black":string
 }

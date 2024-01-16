@@ -19,13 +19,14 @@ export const THEMES: Record<ThemeType, Theme> = {
         '--blue-dark': "#4953B8",
         '--blue-twitter': "#2AA9E0",
         'background': "var(--background)",
+        '--black': "#000000",
     },
     dark: {
         '--theme-switch-notch': "#9E25FC",
         '--theme-switch-bg': "#6d18b0",
         '--logo-color': "#FFF",
         '--card-color': "#12181B",
-        '--background': "#2A2E35",
+        '--background': "#202020",
         '--gray-line': "#2a2e35",
         '--text': "#B2BECD",
         '--text-highlight': "#B3B9FF",
@@ -37,5 +38,6 @@ export const THEMES: Record<ThemeType, Theme> = {
         '--blue-dark': "#4953B8",
         '--blue-twitter': "#2AA9E0",
         'background': "var(--background)",
+        '--black': "#000000",
     }
 }
